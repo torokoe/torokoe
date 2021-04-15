@@ -13,7 +13,7 @@
 - [x] [MaxAPI](https://github.com/torokoe/MaxAPI)<kbd>C#,GoogleApi</kbd>
 - [x] [BGMmagiQuiz](https://github.com/torokoe/BGMmagiQuiz)<kbd>C#,RestSharp</kbd>
 - [x] [APIServices@CFWorker](https://github.com/torokoe/cf-apis)<kbd>js</kbd>
-- [x] [ng-ckyu](https://github.com/torokoe/ng-ckyu)<kbd>angular</kbd>
+- [x] [cqvol/ng-ckyu](https://github.com/torokoe/ng-ckyu)<kbd>angular</kbd>
 - [x] [Cmnt-Ds/shirobako](https://github.com/Cmnt-Ds/shirobako)<kbd>react</kbd>
 
 👯社群
