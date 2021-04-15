@@ -18,6 +18,6 @@
 
 👯社群
 
-- [x] [native@example](https://github.com/Jie2GG/Native.Framework/tree/Example)
+- [x] [native@example](https://github.com/Jie2GG/Native.Framework)
 - [x] [howmanybots/onebot@sdk](https://github.com/howmanybots/onebot)
 - [x] [mamoe/mirai@plugin](https://github.com/mamoe/mirai)
