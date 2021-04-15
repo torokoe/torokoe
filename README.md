@@ -14,10 +14,10 @@
 - [x] [BGMmagiQuiz](https://github.com/torokoe/BGMmagiQuiz)
 - [x] [APIServices@CFWorker](https://github.com/torokoe/cf-apis)
 - [x] [ng-ckyu](https://github.com/torokoe/ng-ckyu)
-- [x] [shirobako](https://github.com/Cmnt-Ds/shirobako)
+- [x] [Cmnt-Ds/shirobako](https://github.com/Cmnt-Ds/shirobako)
 
 👯社群
 
-- [x] [native/Example](https://github.com/Jie2GG/Native.Framework/tree/Example)
-- [x] [onebot](https://github.com/howmanybots/onebot)
-- [x] [mirai](https://github.com/mamoe/mirai)
+- [x] [native@example](https://github.com/Jie2GG/Native.Framework/tree/Example)
+- [x] [onebot@sdk](https://github.com/howmanybots/onebot)
+- [x] [mirai@plugin](https://github.com/mamoe/mirai)
