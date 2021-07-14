@@ -8,9 +8,7 @@
 - [x] [CKYU-Plugin/stringreplace](https://github.com/CKYU-Plugin/stringreplace)<kbd>C#,EasyHook,WPF</kbd>
 - [x] [CKYU-Plugin/gamebot](https://github.com/CKYU-Plugin/gamebot)<kbd>C#</kbd>
 - [x] [VIANetWorkCard](https://github.com/torokoe/VIANetWorkCard)<kbd>C#</kbd>
-- [x] [cqvol/cqhttp.WebSocketReverse.NETCore](https://github.com/cqvol/cqhttp.WebSocketReverse.NETCore)<kbd>C#,CqHttp</kbd>
 - [x] [APIServices@CFWorker](https://github.com/torokoe/cf-apis)<kbd>js</kbd>
-- [x] [cqvol/ng-ckyu](https://github.com/torokoe/ng-ckyu)<kbd>angular</kbd>
 - [x] [Cmnt-Ds/shirobako](https://github.com/Cmnt-Ds/shirobako)<kbd>react</kbd>
 
 👯社群
